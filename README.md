@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Rok
+- 🌱 currently learning how vertexes and fragments make pixels apear on screen.
+- 🔭 Interested in everything DIY/Handmade, rendering technology, Game engines, low level hardware.
+- Playing quidditch 🧹🤾‍♂️ and dancing  (lindy hop and shag)
+- Worked for mobile game dev studios [Outift7 Group](https://outfit7.com/) and [Tricky Tribe](https://trickytribe.com/) and president of [Slovenia Games Association](https://sloveniagames.com/)
+
 
 <!--
 **RokKos/RokKos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
