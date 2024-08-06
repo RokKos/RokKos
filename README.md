@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Rok
-- 🌱 currently learning how vertexes and fragments make pixels apear on screen.
+- 🌱 currently trying to become a better engineer overall.
 - 🔭 Interested in everything DIY/Handmade, rendering technology, Game engines, low level hardware.
 - Playing quidditch 🧹🤾‍♂️ and dancing 🕺 (lindy hop and shag)
 - Worked for mobile game dev studios [Outift7 Group](https://outfit7.com/) and [Tricky Tribe](https://trickytribe.com/) and president of [Slovenia Games Association](https://sloveniagames.com/)
